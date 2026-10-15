@@ -11,61 +11,65 @@
   <a href="https://nadatiyasa.github.io/CV_Nada_Tiyasa_Salsabela.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20CV-14101F?style=for-the-badge&logoColor=F472B6" alt="CV" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
-
  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  <samp>
-    Informatics Engineering graduate focused on
-    Internet of Things, Data Science, and Web Development.
-  </samp>
+  <samp>INFORMATICS ENGINEERING · TECHNOLOGY · INNOVATION</samp>
 </p>
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">EDUCATION</h3>
-      <p>
-        <b>B.Eng. in Informatics Engineering</b><br />
-        Dian Nuswantoro University<br />
-        <sub>2022 – 2026</sub>
-      </p>
+    <td colspan="2" align="left">
+      <sub><b>01 / INTRODUCTION</b></sub>
+      <h3>Nada Tiyasa Salsabela</h3>
+      Informatics Engineering graduate from Dian Nuswantoro University, interested in developing practical technology through IoT systems, machine learning, and web applications.
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">AREAS OF INTEREST</h3>
-      <p>
-        <img src="https://img.shields.io/badge/IoT-14101F?style=flat-square&logoColor=F472B6" alt="IoT" />
-        <img src="https://img.shields.io/badge/Data%20Science-14101F?style=flat-square&logoColor=F472B6" alt="Data Science" />
-        <img src="https://img.shields.io/badge/Web%20Development-14101F?style=flat-square&logoColor=F472B6" alt="Web Development" />
-      </p>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=3B1D36&height=1" width="100%" alt="" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">TECHNICAL FOCUS</h3>
-      <p>
-        IoT System Development<br />
-        Machine Learning &amp; Computer Vision<br />
-        Web Application Development
-      </p>
+      <sub><b>02 / EDUCATION</b></sub>
+      <h3>2022 — 2026</h3>
+      <b>B.Eng. Informatics Engineering</b><br />
+      Dian Nuswantoro University
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">PROFESSIONAL GOALS</h3>
+      <sub><b>03 / CORE INTERESTS</b></sub>
+      <h3>Areas of Focus</h3>
+      <img src="https://img.shields.io/badge/IoT-3B1D36?style=flat-square&logoColor=F472B6" alt="IoT" />
+      <img src="https://img.shields.io/badge/Data%20Science-3B1D36?style=flat-square&logoColor=F472B6" alt="Data Science" />
+      <img src="https://img.shields.io/badge/Web%20Development-3B1D36?style=flat-square&logoColor=F472B6" alt="Web Development" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=3B1D36&height=1" width="100%" alt="" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <sub><b>04 / TECHNICAL FOCUS</b></sub>
       <p>
-        Technical Collaboration<br />
-        Applied Research &amp; Development<br />
-        Continuous Professional Growth
+        <img src="https://img.shields.io/badge/IoT%20Systems-14101F?style=flat-square&logo=arduino&logoColor=F472B6" alt="IoT Systems" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-14101F?style=flat-square&logo=python&logoColor=F472B6" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-14101F?style=flat-square&logoColor=F472B6" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/Web%20Applications-14101F?style=flat-square&logo=googlechrome&logoColor=F472B6" alt="Web Applications" />
       </p>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
+<p align="center">
+  <sub>BUILDING TECHNOLOGY WITH PURPOSE</sub>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 <h2 align="center">// TECH STACK</h2>
 
 <div align="center">
