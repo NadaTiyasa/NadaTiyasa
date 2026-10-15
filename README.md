@@ -1,3 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:fde68a&height=200&section=header&text=Nada%20Tiyasa%20Salsabela&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=IoT%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Web%20Developer&descSize=16&descAlignY=58" width="100%" />
+<img src="assets/banner.png" alt="Nada Tiyasa Salsabela banner" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0F766E&center=true&vCenter=true&width=500&lines=IoT+System+Developer;Data+Science+%26+ML;Web+Developer" />
+</p>
 <h1 align="center">Hi, I'm Nada Tiyasa Salsabela 👋</h1>
 <p align="center">Informatics Engineering Graduate · IoT · Data Science · Web Development</p>
 
@@ -32,3 +37,4 @@ solutions: IoT systems, ML models, and web apps.
 - **IoT System Developer**, PKM (Mar–Jul 2024): automatic irrigation system
 
 📫 Reach me: nadatiyasa6@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fde68a,100:0f766e&height=100&section=footer" width="100%" />
