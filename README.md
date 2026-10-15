@@ -101,13 +101,11 @@
       <img src="https://nadatiyasa.github.io/img/1.png" width="100%" alt="Portable Traffic Light IoT" /><br />
       <b>Portable Traffic Light IoT</b><br />
       <sub>HTML · Arduino IDE · ESP8266 · WebSocket</sub><br />
-      <a href="https://github.com/NadaTiyasa/NAMA-REPO">View repo →</a>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://nadatiyasa.github.io/img/2.png" width="100%" alt="IoT Smart Gas Monitoring" /><br />
       <b>IoT Smart Gas Monitoring</b><br />
       <sub>ESP8266 · Firebase · Arduino · MIT App</sub><br />
-      <a href="https://github.com/NadaTiyasa/NAMA-REPO">View repo →</a>
     </td>
   </tr>
   <tr>
@@ -115,13 +113,11 @@
       <img src="https://nadatiyasa.github.io/img/3.png" width="100%" alt="Bonsai Smart Farming" /><br />
       <b>Bonsai Smart Farming</b><br />
       <sub>Arduino · IoT · Sensors</sub><br />
-      <a href="https://github.com/NadaTiyasa/NAMA-REPO">View repo →</a>
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://nadatiyasa.github.io/img/4.png" width="100%" alt="Obesity Prediction" /><br />
       <b>Obesity Prediction</b><br />
       <sub>Python · Machine Learning</sub><br />
-      <a href="https://github.com/NadaTiyasa/NAMA-REPO">View repo →</a>
     </td>
   </tr>
 </table>
@@ -136,6 +132,12 @@
     <th align="left">Organization</th>
     <th align="left">Period</th>
     <th align="left">Focus</th>
+  </tr>
+  <tr>
+    <td><b>IT Programmer (Full Stack Developer)</b></td>
+    <td>RSI Muhammadiyah Kendal</td>
+    <td>Aug 2026 – Present</td>
+    <td>Full-stack development, system maintenance, database optimization</td>
   </tr>
   <tr>
     <td><b>Assistant Developer (Intern)</b></td>
