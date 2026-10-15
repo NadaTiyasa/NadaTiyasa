@@ -11,7 +11,7 @@
   <a href="https://nadatiyasa.github.io/CV_Nada_Tiyasa_Salsabela.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20CV-14101F?style=for-the-badge&logoColor=F472B6" alt="CV" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:85395F,50:3B1D36,100:0D0B16&height=260&section=header&text=Nada%20Tiyasa%20Salsabela&fontSize=42&fontColor=F8F5FA&fontAlignY=40&desc=Informatics%20Engineering%20Graduate&descSize=16&descAlignY=60&animation=twinkling" width="100%" alt="Nada Tiyasa Salsabela" />
 
 <h2 align="center">// ABOUT</h2>
 
