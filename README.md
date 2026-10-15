@@ -15,14 +15,12 @@
 
 <h2 align="center">// ABOUT</h2>
 
-```js
 const nada = {
   education: "B.Eng. Informatics Engineering, Dian Nuswantoro University (2022 - 2026)",
   focus:     ["IoT", "Data Science", "Web Development"],
   building:  ["IoT systems", "ML & computer vision (YOLOv8)", "Web apps"],
   lookingFor: "Collaboration & new opportunities"
 };
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
