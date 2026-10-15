@@ -7,7 +7,12 @@
 <p align="center">
   <a href="https://nadatiyasa.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-F472B6?style=for-the-badge&logoColor=0D0B16" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/nadatiyasa/"><img src="https://img.shields.io/badge/LINKEDIN-14101F?style=for-the-badge&labelColor=14101F&color=14101F" alt="LinkedIn" /></a>
-  <a href="mailto:nadatiyasa6@gmail.com"><img src="https://img.shields.io/badge/EMAIL-14101F?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email" /></a>
+<a href="mailto:nadatiyasa6@gmail.com">
+  <img
+    src="https://img.shields.io/badge/EMAIL-14101F?style=for-the-badge&logo=gmail&logoColor=F472B6"
+    alt="Email"
+  />
+</a>
   <a href="https://nadatiyasa.github.io/CV_Nada_Tiyasa_Salsabela.pdf"><img src="https://img.shields.io/badge/DOWNLOAD%20CV-14101F?style=for-the-badge&logoColor=F472B6" alt="CV" /></a>
 </p>
 
@@ -26,15 +31,15 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 Education</h3>
+      <h3 align="center">Education</h3>
       <p align="center">
-        <b>B.Eng. Informatics Engineering</b><br />
+        <b>Informatics Engineering</b><br />
         Dian Nuswantoro University<br />
         <sub>2022 – 2026</sub>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💡 Areas of Interest</h3>
+      <h3 align="center">Areas of Interest</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/IoT-14101F?style=flat-square&logo=arduino&logoColor=F472B6" alt="IoT" />
         <img src="https://img.shields.io/badge/Data_Science-14101F?style=flat-square&logo=python&logoColor=F472B6" alt="Data Science" />
@@ -44,7 +49,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛠️ Currently Building</h3>
+      <h3 align="center">Currently Building</h3>
       <p align="center">
         IoT Systems<br />
         Machine Learning &amp; Computer Vision<br />
@@ -52,7 +57,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤝 Open To</h3>
+      <h3 align="center">Open To</h3>
       <p align="center">
         Collaboration<br />
         Innovative Projects<br />
@@ -67,7 +72,7 @@
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
-<h2 align="center">// TECH STACK</h2>
+<h2 align="center">✦ TECH STACK ✦</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-14101F?style=for-the-badge&logo=python&logoColor=F472B6" alt="Python" />
@@ -88,7 +93,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
-<h2 align="center">// FEATURED PROJECTS</h2>
+<h2 align="center">✦ FEATURED PROJECTS ✦</h2>
 
 <table>
   <tr>
@@ -123,7 +128,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
-<h2 align="center">// EXPERIENCE</h2>
+<h2 align="center">✦ EXPERIENCE ✦</h2>
 
 <table>
   <tr>
@@ -148,7 +153,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
-<h2 align="center">// GITHUB STATS</h2>
+<h2 align="center">✦ GITHUB STATS ✦</h2>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NadaTiyasa&show_icons=true&hide_border=true&bg_color=0D0B16&title_color=F472B6&icon_color=F472B6&text_color=F8F5FA&ring_color=F472B6" alt="GitHub stats" />
