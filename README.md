@@ -13,16 +13,60 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
-<h2 align="center">// ABOUT</h2>
+ <h2 align="center">✦ ABOUT ME ✦</h2>
 
-```js
-const nada = {
-  education: "B.Eng. Informatics Engineering, Dian Nuswantoro University (2022 - 2026)",
-  focus:     ["IoT", "Data Science", "Web Development"],
-  building:  ["IoT systems", "ML & computer vision (YOLOv8)", "Web apps"],
-  lookingFor: "Collaboration & new opportunities"
-};
-```
+<p align="center">
+  <samp>
+    Informatics Engineering graduate with an interest in
+    <b>Internet of Things</b>, <b>Data Science</b>, and
+    <b>Web Development</b>.
+  </samp>
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 Education</h3>
+      <p align="center">
+        <b>B.Eng. Informatics Engineering</b><br />
+        Dian Nuswantoro University<br />
+        <sub>2022 – 2026</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💡 Areas of Interest</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IoT-14101F?style=flat-square&logo=arduino&logoColor=F472B6" alt="IoT" />
+        <img src="https://img.shields.io/badge/Data_Science-14101F?style=flat-square&logo=python&logoColor=F472B6" alt="Data Science" />
+        <img src="https://img.shields.io/badge/Web_Development-14101F?style=flat-square&logo=googlechrome&logoColor=F472B6" alt="Web Development" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Currently Building</h3>
+      <p align="center">
+        IoT Systems<br />
+        Machine Learning &amp; Computer Vision<br />
+        Web Applications
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤝 Open To</h3>
+      <p align="center">
+        Collaboration<br />
+        Innovative Projects<br />
+        New Opportunities
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Turning ideas into practical, meaningful technology.</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:85395F,50:F472B6,100:85395F&height=2" width="100%" alt="" />
 
