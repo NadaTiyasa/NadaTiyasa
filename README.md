@@ -24,7 +24,7 @@
   </samp>
 </p>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">EDUCATION</h3>
